@@ -11,6 +11,10 @@ $dark-grey: #7F7F7F;
 $black: #000000;
 $bronze: #B29884;
 
+$instagram: #3f729b;
+$facebook: #3b5998;
+$linkedin: #0077b5;
+
 // FONT
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600);
@@ -52,6 +56,10 @@ p {
     height: 180px;
 }
 
+.row {
+    margin-bottom: 40px;
+}
+
 // BANNER
 
 .porter-banner-wrapper {
@@ -59,10 +67,90 @@ p {
 
     .porter-banner {
         height: 100vh;
-        width: 100vh;
+        width: 120vh;
         max-width: 100vw;
         margin: 0 auto;
     }
+}
+
+// FADE BAGS
+
+.fade-bag {
+    width: 10%;
+    position: absolute;
+    z-index: 100;
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    opacity: 0;
+
+    img {
+        max-width: 100%;
+    }
+}
+
+.fade-bag-large {
+    width: 13%;
+}
+
+.bag-bottom {
+    -ms-transform: translate(-50%, -100%);
+    -webkit-transform: translate(-50%, -100%);
+    transform: translate(-50%, -100%);
+}
+
+.bag-top {
+    -ms-transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+}
+
+.bag-right {
+    -ms-transform: translate(-100%, -50%);
+    -webkit-transform: translate(-100%, -50%);
+    transform: translate(-100%, -50%);
+}
+
+.bag-left {
+    -ms-transform: translate(0, -50%);
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+}
+
+#bag-01 { top: 10vh; left: 62%;}
+#bag-01-1 { top: 64vh; left: 50%;}
+#bag-02 { top: 60vh; left: 36%;}
+#bag-04 { top: 59vh; left: 65%;}
+#bag-05 { top: 92vh; left: 58%;}
+#bag-10 { top: 50vh; left: 18%;}
+#bag-10-1 { top: 53vh; left: 82%;}
+#bag-11 { top: 12vh; left: 45%;}
+#bag-12 { top: 33vh; left: 78%;}
+#bag-13 { top: 22vh; left: 22%;}
+#bag-14 { top: 90vh; left: 22%;}
+#bag-15 { top: 92vh; left: 75%;}
+#bag-16 { top: 89vh; left: 40%;}
+
+@media only screen and(max-width: 600px) {
+    #bag-01 { left: 69%;}
+    #bag-01-1 { left: 45%;}
+    #bag-02 { left: 25%;}
+    #bag-05 { display: none;}
+    #bag-10 { display: none;}
+    #bag-10-1 { top: 62vh; left: 95%;}
+    #bag-12 { top: 29vh; left: 92%;}
+    #bag-13 { left: 9%;}
+    #bag-14 { top: 88vh;}
+    #bag-15 { top: 88vh; left: 74%;}
+    #bag-16 { left: 46%;}
+}
+
+.porter-banner.portrait .fade-bag {
+    width: 20%;
+}
+
+.porter-banner.portrait .fade-bag-large {
+    width: 26%;
 }
 
 // LOGO
@@ -91,6 +179,7 @@ p {
 .right-aligned.bag-image {
     padding-right: 0px;
     padding-left: 30%;
+    float: right;
 }
 
 .hide-on-med-and-up .bag-image {
@@ -130,13 +219,21 @@ p {
 
     input, textarea {
         border: 2px solid $black;
+        padding-left: 12px;
+        padding-right: 12px;
+        width: calc(100% - 26px);
+    }
+
+    textarea {
+        padding-top: 12px;
+        padding-bottom: 12px;
     }
 
     input[type=text]:focus, input[type=email]:focus, textarea.materialize-textarea:focus {
         box-shadow: none;
         border-bottom: 2px solid $black;
     }
-    
+
     input[type=text]:focus + label, input[type=email]:focus + label, textarea.materialize-textarea:focus + label {
         color: $dark-grey;
     }
@@ -180,5 +277,25 @@ p {
     }
     .social-icons {
         margin: 0 10%;
+
+        i {
+            -o-transition:.5s;
+            -ms-transition:.5s;
+            -moz-transition:.5s;
+            -webkit-transition:.5s;
+            transition:.5s;
+        }
+
+        .fa-instagram:hover {
+            color: $instagram !important;
+        }
+
+        .fa-facebook-square:hover {
+            color: $facebook !important;
+        }
+
+        .fa-linkedin-square:hover {
+            color: $linkedin !important;
+        }
     }
 }

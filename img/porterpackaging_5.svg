@@ -1,31 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 283.5 283.5" enable-background="new 0 0 283.5 283.5" xml:space="preserve">
-<g id="XMLID_15_">
-	
-		<polygon id="XMLID_24_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		62.2,226.1 89.8,245.3 221.7,212.2 198.7,61.1 171.6,52.5 174.1,39.1 80.8,65.5 	"/>
-	
-		<polyline id="XMLID_23_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		89.8,245.3 108.5,85.2 104.6,71.3 80.8,65.5 	"/>
-	
-		<line id="XMLID_22_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="108.5" y1="85.2" x2="198.7" y2="61.1"/>
-	
-		<polyline id="XMLID_21_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" points="
-		62.2,226.1 87,218.9 104.6,71.3 	"/>
-	
-		<path id="XMLID_20_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M87,218.9"/>
-	
-		<line id="XMLID_19_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" x1="87" y1="218.9" x2="89.8" y2="245.3"/>
-	
-		<line id="XMLID_18_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" x1="171.6" y1="52.2" x2="171.6" y2="68.3"/>
-	
-		<line id="XMLID_17_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="174.1" y1="39.4" x2="174.1" y2="52.8"/>
-	
-		<polygon id="XMLID_16_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		112.2,88.6 95.5,239 217.3,209.1 195.8,66 	"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="284pt" viewBox="0 0 284 284" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L216.75 0 L216.75 278.999 L0 278.999 L0 0 Z" transform="translate(32.75, 1.53123)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L216.75 0 L216.75 278.999 L0 278.999 L0 0 Z" transform="translate(32.75, 1.53123)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Layer_1" clip-path="url(#Clip0)">
+   <g id="XMLID_15_" clip-path="url(#Clip1)">
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_24_" d="M0 251.465 L37.209 277.283 L215.03 232.773 L184.023 29.5841 L147.488 18.0194 L150.858 0 L25.0756 35.5009 L0 251.465 Z" transform="translate(33.6099, 2.38889)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_23_" d="M12.1334 241.783 L37.3438 26.4912 L32.086 7.79944 L0 0 " transform="translate(58.6855, 37.8898)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_22_" d="M0 32.408 L121.603 0 " transform="translate(96.0293, 31.973)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_21_" d="M0 208.164 L33.4342 198.482 L57.1617 0 " transform="translate(33.6099, 45.6892)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_19_" d="M0 0 L3.77483 35.5009 " transform="translate(67.044, 244.171)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_18_" d="M0 0 L0 21.6502 " transform="translate(181.098, 20.0049)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_17_" d="M0 0 L0 18.0194 " transform="translate(184.468, 2.79231)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.71752; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_16_" d="M22.5141 30.3909 L0 232.638 L164.205 192.431 L135.22 0 L22.5141 30.3909 Z" transform="translate(78.5033, 38.5622)"/>
+   </g>
+  </g>
+ </g>
 </svg>

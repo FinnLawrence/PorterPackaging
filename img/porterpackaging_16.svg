@@ -1,27 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 425.2 425.2" enable-background="new 0 0 425.2 425.2" xml:space="preserve">
-<g>
-	
-		<path fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M325.2,145.9l-52.1-31.2l-118.9,56.2l51.6,42.2l-104.6-44.8l6.2,99.7l98.4,54.6V213.1L325.2,145.9c-1.4,0.8,0,95.6,0,95.6
-		L289,266.3l-83.1,56.3"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		101.3,168.2 150.3,163 267.9,103.9 220.8,111.7 	"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="163.4" y1="156.5" x2="175.8" y2="160.7"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="205.6" y1="136.1" x2="219.9" y2="139.8"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="238.3" y1="118.8" x2="255.5" y2="123"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		105.9,175.4 111.8,265.2 201.2,314.3 201.2,216 	"/>
-	
-		<polygon fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		320.2,239.3 210.5,313.4 210.5,215.9 320.2,154.1 	"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="426pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="426pt" viewBox="0 0 426 426" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L419.001 0 L419.001 408.999 L0 408.999 L0 0 Z" transform="translate(2.75, 7.50117)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L419.001 0 L419.001 408.999 L0 408.999 L0 0 Z" transform="translate(2.75, 7.50117)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Layer_1" clip-path="url(#Clip0)">
+   <g id="Group1" clip-path="url(#Clip1)">
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M416.629 58.0099 L319.725 0 L98.5774 104.492 L194.551 182.954 L0 99.658 L11.5317 285.029 L194.551 386.547 L194.551 182.954 L416.629 58.0099 C414.025 59.4973 416.629 235.758 416.629 235.758 L349.299 281.869 L194.737 386.547 " transform="translate(3.93628, 28.7674)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M0 119.552 L91.1376 109.884 L309.868 0 L222.264 14.5025 L0 119.552 Z" transform="translate(4.12227, 8.68703)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M0 0 L23.0634 7.80903 " transform="translate(119.625, 106.486)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M0 0 L26.5973 6.87938 " transform="translate(198.115, 68.5562)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M0 0 L31.9911 7.80903 " transform="translate(258.935, 36.3905)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M0 0 L10.9737 166.964 L177.253 258.256 L177.253 75.4872 L0 0 Z" transform="translate(12.678, 141.626)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.37213; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" d="M204.037 158.412 L0 296.185 L0 114.904 L204.037 0 L204.037 158.412 Z" transform="translate(207.229, 102.023)"/>
+   </g>
+  </g>
+ </g>
 </svg>

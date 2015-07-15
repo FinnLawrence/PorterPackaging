@@ -1,66 +1,39 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 283.5 283.5" enable-background="new 0 0 283.5 283.5" xml:space="preserve">
-<g id="XMLID_15_">
-	
-		<path id="XMLID_37_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M133.4,114.8c2.2,0,3.5,2.5,3.5,4.1c0,2.3-1.9,4.2-4.2,4.2c-2.3,0-4.2-1.9-4.2-4.2c0-1.6,0.9-3.2,1.7-3.6"/>
-	
-		<path id="XMLID_36_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M185.4,104.5c1.5,0.6,2.6,2.1,2.6,3.9c0,2.3-1.9,4.2-4.2,4.2s-4.2-1.9-4.2-4.2c0-1.7,1-3.2,2.5-3.9"/>
-	
-		<path id="XMLID_35_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M130.2,122.3c0,0-1.2-31.4,4.6-48.8c3.9-11.9,9.2-21.7,21.5-21.7c11,0,17.9,9,22.2,20c6.9,17.6,7.2,40.4,7.2,40.4"/>
-	
-		<path id="XMLID_34_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M133.6,123c0,0-1.7-34,4.7-50.7c3.9-10.2,8.5-16.7,18-17.1c8.9-0.4,14.8,7.5,18.7,17c7,16.8,7.8,40.1,7.8,40.1"/>
-	
-		<path id="XMLID_33_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M106.7,71.4c3.4-15.8,10.3-29.8,26.2-29.8c7.2,0,13,4.3,17.7,11.1"/>
-	
-		<path id="XMLID_32_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M110.5,71c3.8-13.4,8.8-26,22.4-26c5.2,0,10.8,3.7,14.3,9.1"/>
-	
-		<line id="XMLID_31_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="168.4" y1="61.3" x2="141.2" y2="65.8"/>
-	
-		<polyline id="XMLID_30_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		175.2,64.4 178.8,59.3 172.7,60.3 	"/>
-	
-		<polyline id="XMLID_29_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		173.4,69.6 171.8,69.3 172.7,68.1 	"/>
-	
-		<polyline id="XMLID_28_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		137.5,66.4 68.8,78.1 62.3,224.2 96.5,243.1 222.6,214.2 213.1,78.1 178.4,70.7 	"/>
-	
-		<line id="XMLID_27_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="182" y1="83.4" x2="213.1" y2="78.1"/>
-	
-		<line id="XMLID_26_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="134.4" y1="91.2" x2="178.5" y2="83.9"/>
-	
-		<polyline id="XMLID_25_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		68.8,78.1 99.4,84.7 102.2,96.6 131.3,91.7 	"/>
-	
-		<line id="XMLID_24_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="96.5" y1="243.1" x2="102.2" y2="96.6"/>
-	
-		<polyline id="XMLID_23_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" points="
-		62.3,224.2 91.9,216.3 96.5,243.1 	"/>
-	
-		<line id="XMLID_22_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" x1="91.9" y1="216.3" x2="99.4" y2="84.7"/>
-	
-		<line id="XMLID_21_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-dasharray="4.3601" x1="171.9" y1="69.3" x2="171.9" y2="85"/>
-	
-		<line id="XMLID_20_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="178.7" y1="59.3" x2="178.7" y2="70.5"/>
-	
-		<polyline id="XMLID_19_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
-		182.8,87.1 210.2,82.3 218.2,211.3 100.9,237.4 106.3,99.8 130.9,95.9 	"/>
-	
-		<line id="XMLID_18_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="134" y1="95.4" x2="179.5" y2="87.5"/>
-	
-		<path id="XMLID_17_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M149.1,57.2c0,0,2.1,2.9,3,6.8"/>
-	
-		<path id="XMLID_16_" fill="none" stroke="#000000" stroke-width="1.2756" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
-		M152.1,55.9c0,0,2.1,3.2,3,7.1"/>
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="284pt" viewBox="0 0 284 284" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L223.5 0 L223.5 279.999 L0 279.999 L0 0 Z" transform="translate(30.5, 2.03522)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L223.5 0 L223.5 279.999 L0 279.999 L0 0 Z" transform="translate(30.5, 2.03522)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Layer_1" clip-path="url(#Clip0)">
+   <g id="XMLID_15_" clip-path="url(#Clip1)">
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_37_" d="M6.77794 0 C9.8211 0 11.6193 3.45208 11.6193 5.66142 C11.6193 8.83733 8.99115 11.4609 5.80966 11.4609 C2.62818 11.4609 0 8.83733 0 5.66142 C0 3.45208 1.24493 1.24275 2.35153 0.690416 " transform="translate(122.954, 103.993)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_36_" d="M8.02287 0 C10.0977 0.8285 11.6193 2.89975 11.6193 5.38525 C11.6193 8.56116 8.99115 11.1847 5.80966 11.1847 C2.62818 11.1847 0 8.56116 0 5.38525 C0 3.03783 1.38325 0.966583 3.45813 0 " transform="translate(193.638, 89.7703)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_35_" d="M1.6599 97.3487 C1.6599 97.3487 0 53.9906 8.02287 29.9641 C13.4176 13.5322 20.7488 0 37.7628 0 C52.9786 0 62.5231 12.4275 68.471 27.6167 C78.0155 51.9193 78.4305 83.4023 78.4305 83.4023 " transform="translate(123.645, 17.0004)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_34_" d="M2.35153 94.1728 C2.35153 94.1728 0 47.2245 8.85282 24.1646 C14.2475 10.0801 20.6105 1.10467 33.7514 0.552333 C46.0623 0 54.2235 10.9086 59.6182 24.0265 C69.301 47.2245 70.4076 79.3979 70.4076 79.3979 " transform="translate(127.657, 21.1429)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_33_" d="M0 41.1488 C4.70306 19.3317 14.2475 0 36.2412 0 C46.2007 0 54.2235 5.93758 60.7248 15.3272 " transform="translate(92.7987, 2.91591)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_32_" d="M0 35.9017 C5.25636 17.3985 12.1726 0 30.9849 0 C38.1778 0 45.924 5.10908 50.7654 12.5656 " transform="translate(98.0551, 7.61074)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_31_" d="M37.6245 0 L0 6.21375 " transform="translate(140.521, 30.1183)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_30_" d="M3.45813 7.04225 L8.43785 0 L0 1.38083 " transform="translate(184.093, 27.3567)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_29_" d="M2.21321 2.07125 L0 1.657 L1.24493 0 " transform="translate(182.848, 39.508)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_28_" d="M104.021 0 L8.99115 16.1557 L0 217.895 L47.3073 243.993 L221.736 204.087 L208.595 16.1557 L160.596 5.93758 " transform="translate(31.3822, 37.1606)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_27_" d="M0 7.31841 L43.0192 0 " transform="translate(196.958, 53.3163)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_26_" d="M0 10.0801 L61.0015 0 " transform="translate(131.115, 61.3251)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_25_" d="M0 0 L42.3276 9.1135 L46.2007 25.5454 L86.4533 18.7793 " transform="translate(40.3734, 53.3163)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_24_" d="M0 202.292 L7.88454 0 " transform="translate(78.6895, 78.8617)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_23_" d="M0 10.9086 L40.9443 0 L47.3073 37.0063 " transform="translate(31.3822, 244.147)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_22_" d="M0 181.718 L10.3744 0 " transform="translate(72.3265, 62.4298)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_21_" d="M0 0 L0 31.3767 " transform="translate(182.987, 41.165)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_20_" d="M0 0 L0 22.3834 " transform="translate(192.393, 27.3567)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_19_" d="M113.288 6.628 L151.19 0 L162.256 178.127 L0 214.167 L7.46957 24.1646 L41.4976 18.7793 " transform="translate(84.7758, 59.1158)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_18_" d="M0 10.9086 L62.938 0 " transform="translate(130.562, 66.2961)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_17_" d="M0 0 C0 0 2.90483 4.00442 4.14976 9.38966 " transform="translate(151.449, 24.4569)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.76293; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_16_" d="M0 0 C0 0 2.90483 4.41867 4.14976 9.80391 " transform="translate(155.598, 22.6618)"/>
+   </g>
+  </g>
+ </g>
 </svg>
