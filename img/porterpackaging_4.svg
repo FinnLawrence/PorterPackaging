@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="284pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="284pt" viewBox="0 0 284 284" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L900 0 L900 292 L0 292 L0 0 Z" transform="translate(36.4604, 3.54414)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L209.121 0 L209.121 275.816 L0 275.816 L0 0 Z" transform="translate(36.4604, 3.54414)"/>
+  </clipPath>
+  <clipPath id="Clip2">
+   <path d="M0 0 L105.698 0 L105.698 97.936 L0 97.936 L0 0 Z" transform="translate(111.283, 126.225)"/>
+  </clipPath>
+  <clipPath id="Clip3">
+   <path d="M0 0 L67.4205 0 L67.4205 39.9913 L0 39.9913 L0 0 Z" transform="translate(126.594, 126.225)"/>
+  </clipPath>
+  <clipPath id="Clip4">
+   <path d="M0 0 L52.2538 0 L52.2538 65.4234 L0 65.4234 L0 0 Z" transform="translate(164.727, 154.114)"/>
+  </clipPath>
+  <clipPath id="Clip5">
+   <path d="M0 0 L52.976 0 L52.976 59.7879 L0 59.7879 L0 0 Z" transform="translate(111.283, 164.373)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Layer_1" clip-path="url(#Clip0)">
+   <g id="XMLID_46_" clip-path="url(#Clip1)">
+    <g id="XMLID_57_" clip-path="url(#Clip2)">
+     <g id="XMLID_72_" clip-path="url(#Clip3)">
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_78_" d="M18.0556 6.35802 C18.0556 6.35802 45.0668 1.445 45.6445 1.3005 C53.4446 0 59.0779 7.94752 60.8112 10.693 C61.1001 11.271 61.8224 11.4155 62.4001 11.1265 L63.5557 10.404 C64.4224 9.82603 65.5779 10.693 65.289 11.7045 L61.389 30.7786 C61.2446 31.3566 60.6668 31.7901 60.089 31.7901 L39.8668 30.2006 C38.8556 30.0561 38.4223 28.7556 39.289 28.0331 L40.4445 27.1661 C40.8779 26.7326 41.0223 26.0101 40.7334 25.5766 C26.7223 6.50252 21.9556 6.50252 21.9556 6.50252 C21.5223 6.35802 21.0889 6.35802 20.6556 6.35802 C12.4222 5.63551 6.93335 10.8375 5.63335 14.3055 C5.63335 14.45 0.28889 29.3336 0.28889 29.3336 C0 29.9116 0.433334 30.6341 1.01111 30.9231 L21.0889 38.0036 C21.6667 38.1481 22.3889 37.8591 22.5334 37.2811 L31.7778 14.5945 " transform="translate(127.515, 127.147)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_77_" d="M1.87778 0 L0 5.92452 " transform="translate(136.182, 135.961)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_76_" d="M2.02223 0 L0 7.51402 " transform="translate(141.093, 133.794)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_75_" d="M1.44445 0 L0 6.79152 " transform="translate(145.86, 133.505)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_74_" d="M1.15556 0 L0 4.91301 " transform="translate(150.338, 134.516)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_73_" d="M0.28889 0 L0 1.734 " transform="translate(154.815, 137.262)"/>
+     </g>
+     <g id="XMLID_65_" clip-path="url(#Clip4)">
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_71_" d="M46.3668 28.6111 C46.3668 28.6111 33.6556 52.8871 33.3667 53.4651 C29.6112 60.4012 19.9334 59.9677 16.6111 59.6787 C15.8889 59.6787 15.3111 60.1122 15.3111 60.6902 L15.1667 62.1352 C15.0223 63.1467 13.7223 63.5802 13.1445 62.7132 L0.433334 47.9741 C0 47.5406 0 46.8181 0.433334 46.3846 L14.1556 31.3566 C14.8778 30.4896 16.1778 31.0676 16.1778 32.2236 L16.1778 33.6686 C16.1778 34.2466 16.6111 34.8246 17.3334 34.8246 C40.8779 35.5471 43.9112 31.6456 43.9112 31.6456 C44.2001 31.3566 44.489 31.0676 44.7779 30.7786 C50.4112 24.7096 49.689 17.1955 47.8112 14.161 C47.8112 14.0165 39.1445 0.722502 39.1445 0.722502 C38.8556 0.1445 37.989 0 37.5556 0.433501 L19.6445 11.849 C19.0667 12.138 18.9223 12.8605 19.2112 13.4385 L31.3445 34.6801 " transform="translate(165.649, 155.035)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_70_" d="M3.46667 5.05751 L0 0 " transform="translate(211.149, 171.219)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_69_" d="M4.62223 6.21352 L0 0 " transform="translate(208.549, 175.41)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_68_" d="M4.47779 5.34651 L0 0 " transform="translate(206.382, 179.745)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_67_" d="M3.17778 3.75701 L0 0 " transform="translate(204.36, 183.935)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_66_" d="M1.01111 1.3005 L0 0 " transform="translate(202.049, 187.548)"/>
+     </g>
+     <g id="XMLID_58_" clip-path="url(#Clip5)">
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_64_" d="M21.5223 49.9971 C21.5223 49.9971 4.91112 28.0331 4.62223 27.5996 C0 21.2416 4.47779 12.716 6.21112 9.82603 C6.50001 9.24802 6.35557 8.52552 5.77779 8.23652 L4.62223 7.51402 C3.75556 6.93602 3.90001 5.63551 4.91112 5.34651 L23.6889 0.1445 C24.2667 0 24.8445 0.289001 25.1334 0.867002 L32.789 19.6521 C33.2223 20.6636 32.2112 21.6751 31.2001 21.2416 L29.9001 20.6636 C29.3223 20.3746 28.6001 20.6636 28.3112 21.2416 C17.6223 42.3386 19.7889 46.6736 19.7889 46.6736 C19.9334 47.1071 20.0778 47.5406 20.2223 47.8296 C23.4 55.4881 30.3334 57.9446 34.089 57.6556 C34.2334 57.6556 49.9779 55.6326 49.9779 55.6326 C50.7001 55.4881 51.1334 54.9101 50.989 54.3321 L48.2445 33.2351 C48.1001 32.6571 47.6668 32.0791 46.9445 32.2236 L22.5334 34.1021 " transform="translate(112.204, 165.295)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_63_" d="M0 1.0115 L6.06668 0 " transform="translate(139.36, 219.916)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_62_" d="M0 1.5895 L7.65557 0 " transform="translate(135.171, 215.725)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_61_" d="M0 1.734 L6.7889 0 " transform="translate(133.004, 211.968)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_60_" d="M0 1.156 L4.91112 0 " transform="translate(131.993, 208.356)"/>
+      <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_59_" d="M0 0.433501 L1.58889 0 " transform="translate(133.004, 204.599)"/>
+     </g>
+    </g>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_56_" d="M3.17778 8.09202 L67.3113 0.289001 C69.3335 0 71.0668 1.5895 71.0668 3.75701 L71.5002 13.4385 C71.6446 15.317 70.2001 17.051 68.4668 17.1955 L4.33334 25.1431 C2.31112 25.4321 0.577779 23.8426 0.433334 21.6751 L0 11.849 C0 9.97053 1.3 8.23652 3.17778 8.09202 Z" transform="translate(126.937, 56.6304)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_55_" d="M0.433334 20.6636 L0.144445 13.7275 C0 11.849 1.44445 10.115 3.17778 9.97053 L67.4557 0.289001 C69.4779 0 70.9224 1.445 71.0668 3.46801 L71.3557 10.8375 " transform="translate(111.049, 24.4068)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_54_" d="M0 1.8785 L0 231.634 L39.7223 251.575 L207.278 229.322 L207.278 0 L40.1556 22.8311 L45.2112 9.68152 L0 1.8785 Z" transform="translate(37.3817, 26.8633)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_53_" d="M207.278 22.3976 L163.511 12.138 L166.978 0 L0 24.2761 " transform="translate(37.3817, 4.46577)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_52_" d="M0 0 L0 228.744 " transform="translate(77.5374, 49.6944)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_51_" d="M0 16.184 L39.5779 0 " transform="translate(37.3817, 242.313)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_50_" d="M0 0 L0 16.184 " transform="translate(200.893, 16.6038)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_49_" d="M0 0 L0 12.138 " transform="translate(204.36, 4.46577)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_48_" d="M0 20.5191 L0.144445 236.258 L155.134 215.739 L155.134 0 L0 20.5191 Z" transform="translate(83.604, 34.8108)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:1.84289; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_47_" d="M0 0 L0 12.427 " transform="translate(82.5929, 36.5448)"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="426pt" version="1.1" xmlns="http://www.w3.org/2000/svg" height="426pt" viewBox="0 0 426 426" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <clipPath id="Clip0">
+   <path d="M0 0 L409 0 L409 420.749 L0 420.749 L0 0 Z" transform="translate(8.5, 1.75046)"/>
+  </clipPath>
+  <clipPath id="Clip1">
+   <path d="M0 0 L409 0 L409 420.749 L0 420.749 L0 0 Z" transform="translate(8.5, 1.75046)"/>
+  </clipPath>
+ </defs>
+ <g id="Background">
+  <g id="Layer_1" clip-path="url(#Clip0)">
+   <g id="XMLID_28_" clip-path="url(#Clip1)">
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_63_" d="M0 0 L5.20852 225.486 L208.862 295.907 L208.862 53.7697 L0 0 Z" transform="translate(54.227, 125.486)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_62_" d="M253.481 352.625 L348.45 284.459 L354.7 56.7183 L253.481 110.488 L213.028 53.2493 L0 0 L44.6196 56.7183 " transform="translate(9.60733, 68.7679)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_36_" d="M0 116.906 L53.3005 44.5768 L153.304 0 L101.219 63.136 " transform="translate(263.089, 62.3503)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_35_" d="M40.8001 0 L0 19.253 " transform="translate(123.848, 77.9608)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_34_" d="M17.8826 67.4723 L0 40.414 L111.636 0 L155.04 72.1554 " transform="translate(9.60733, 5.80539)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_33_" d="M0 75.1041 L32.9873 0 L226.918 34.6901 L216.674 75.1041 " transform="translate(164.648, 2.85673)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_32_" d="M148.964 32.7822 L0 0 " transform="translate(164.648, 77.9608)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:4 ; stroke-dashoffset:0;" id=" XMLID_31_" d="M0 0 L0 29.4866 " transform="translate(164.648, 77.9608)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_30_" d="M0 0 L5.72937 210.569 L192.715 274.225 L192.715 50.4741 L0 0 Z" transform="translate(61.6925, 134.679)"/>
+    <path style="fill:none;stroke:#000000; stroke-width:2.2136; stroke-linecap:round; stroke-linejoin:round; stroke-dasharray:none;" id=" XMLID_29_" d="M0 44.4033 L0 264.512 L78.6486 207.273 L83.8572 0 L0 44.4033 Z" transform="translate(271.769, 140.056)"/>
+   </g>
+  </g>
+ </g>
+</svg>
