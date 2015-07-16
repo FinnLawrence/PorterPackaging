@@ -1,8 +1,8 @@
 $(document).ready(function () {
-    $('#contact-form').on('submit', function () {
-        $('#response-modal').openModal();
-        return false;
-    });
+    //$('#contact-form').on('submit', function () {
+      //  $('#response-modal').openModal();
+        //return false;
+    //});
     sizeBags();
 });
 
