@@ -26,9 +26,11 @@ function sizeBags() {
     var aspect = $(window).width() / $(window).height();
 
     if (aspect > 1) {
-        $('.porter-banner').removeClass("portrait");
+        $('.portrait').addClass("landscape");
+        $('.portrait').removeClass("portrait");
     } else {
-        $('.porter-banner').addClass("portrait");
+        $('.landscape').addClass("portrait");
+        $('.landscape').removeClass("landscape");
     }
 }
 
