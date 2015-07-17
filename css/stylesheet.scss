@@ -96,20 +96,35 @@ p {
 // FADE BAGS
 
 .fade-bag {
+    z-index: 100;
+    opacity: 0;
+}
+
+.bag-landscape {
     width: 10%;
     position: absolute;
-    z-index: 100;
     -ms-transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    opacity: 0;
 
     img {
         max-width: 100%;
     }
 }
 
-.fade-bag-large {
+.portrait {
+    .bag-landscape {
+        display: none;
+    }
+}
+
+.landscape {
+    .porter-banner-portrait {
+        display: none;
+    }
+}
+
+.bag-landscape-large {
     width: 13%;
 }
 
@@ -150,6 +165,35 @@ p {
 #bag-14 { top: 90vh; left: 22%;}
 #bag-15 { top: 92vh; left: 75%;}
 #bag-16 { top: 89vh; left: 40%;}
+
+// PORTRAIT
+
+.porter-banner-portrait {
+    .row {
+        height: -moz-calc(20vh - 15px);
+        height: -webkit-calc(20vh - 15px);
+        height: -o-calc(20vh - 15px);
+        height: calc(20vh - 15px);
+        margin: 0px;
+    }
+
+    .logo-portrait {
+        width: 100%;
+        -ms-transform: scale(1.2, 1.2);
+        -webkit-transform: scale(1.2, 1.2);
+        transform: scale(1.2, 1.2);
+    }
+
+    .fade-bag {
+        width: 15vw
+    }
+    
+    .bag-portrait-large {
+        -ms-transform: scale(1.3, 1.3);
+        -webkit-transform: scale(1.3, 1.3);
+        transform: scale(1.3, 1.3);
+    }
+}
 
 // LOGO
 
@@ -207,7 +251,7 @@ p {
 @media only screen and(max-width: 1024px) {
     .landscape.section-separator {
         margin-top:-20px;
-        
+
         .separator-square {
             width: 20px;
             height: 20px;
@@ -225,12 +269,21 @@ p {
 
 // CONTACT FORM
 
+.container.contact {
+    .row {
+        margin-bottom: 0px;
+    }
+}
+
 .input-field {
 
     input, textarea {
         border: 2px solid $black;
         padding-left: 12px;
         padding-right: 12px;
+        width: -moz-calc(100% - 26px);
+        width: -webkit-calc(100% - 26px);
+        width: -o-calc(100% - 26px);
         width: calc(100% - 26px);
     }
 

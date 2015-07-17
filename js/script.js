@@ -14,6 +14,8 @@ $(window).load(function () {
             var delay = 300 * $counter;
             $(this).delay(delay).animate({opacity: 1}, 800);
             $counter = $counter + 1;
+        } else {
+            $(this).css("opacity", 1);
         }
     });
 });
