@@ -1,13 +1,11 @@
 $(document).ready(function () {
-    //$('#contact-form').on('submit', function () {
-      //  $('#response-modal').openModal();
-        //return false;
-    //});
     sizeBags();
+    affixFooter();
 });
 
 $(window).load(function () {
     sizeBags();
+    affixFooter();
     $counter = 0;
     $('.fade-bag').each(function() {
         if ($(this).is(':visible')) {
@@ -22,6 +20,7 @@ $(window).load(function () {
 
 $(window).resize(function () {
     sizeBags();
+    affixFooter();
 });
 
 function sizeBags() {
@@ -36,15 +35,12 @@ function sizeBags() {
     }
 }
 
-function getUrlParameter(sParam) {
-    var sPageURL = window.location.search.substring(1);
-    var sURLVariables = sPageURL.split('&');
-    for (var i = 0; i < sURLVariables.length; i++) 
-    {
-        var sParameterName = sURLVariables[i].split('=');
-        if (sParameterName[0] == sParam) 
-        {
-            return sParameterName[1];
-        }
+function affixFooter() {
+    var windowHeight = $(window).height();
+    var bodyHeight = $('body').height();
+    if (bodyHeight < windowHeight) {
+        $('footer').addClass("fixed-footer");
+    } else {
+        $('footer').removeClass("fixed-footer");
     }
-} 
+}

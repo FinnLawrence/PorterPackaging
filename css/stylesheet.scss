@@ -367,13 +367,15 @@ p {
     }
 }
 
+footer.fixed-footer {
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
 // SUCCESS PAGE
 
 .success-wrapper {
-    height: -moz-calc(100vh - 52px);
-    height: -webkit-calc(100vh - 52px);
-    height: -o-calc(100vh - 52px);
-    height: calc(100vh - 52px);
 
     .grey-bg {
 
