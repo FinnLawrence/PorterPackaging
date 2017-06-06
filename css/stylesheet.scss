@@ -15,9 +15,22 @@ $instagram: #3f729b;
 $facebook: #3b5998;
 $linkedin: #0077b5;
 
+$biobags-green-bg: #bce1cc;
+$biobags-green-primary: #137048;
+
 // FONT
 
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600);
+
+@font-face {
+    font-family: 'Circular Std';
+    src: url('font/CircularStd-Bold.eot');
+    src: url('font/CircularStd-Bold.eot?#iefix') format('embedded-opentype'),
+        url('font/CircularStd-Bold.woff') format('woff'),
+        url('font/CircularStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
 
 html, body {
     font-family: 'Source Sans Pro', sans-serif;
@@ -40,6 +53,10 @@ p {
     line-height: 22px;
     color: $dark-grey;
     font-weight: 300;
+}
+
+p a {
+    color: $bronze;
 }
 
 @media only screen and(max-width: 600px) {
@@ -329,6 +346,51 @@ p {
     box-shadow: none;
 }
 
+.btn-accent {
+    color: white;
+    background-color: $bronze;
+    border: 0px;
+}
+
+.btn-accent:focus, .btn-accent:hover {
+    color: $bronze;
+    background-color: $light-grey;
+}
+
+.btn-logo-biobags {
+    text-transform: none;
+    height: auto;
+    line-height: 100%;
+    padding: 15px 30px;
+    font-family: 'Circular Std', sans-serif;
+
+    i.material-icons {
+        color: $biobags-green-primary;
+        font-weight: bold;
+        position: relative;
+        top: 1px;
+        max-width: 0px;
+        overflow: hidden;
+        padding-left: 0px;
+        margin-left: 0px;
+        -webkit-transition: .2s ease-out;
+        -moz-transition: .2s ease-out;
+        -o-transition: .2s ease-out;
+        -ms-transition: .2s ease-out;
+        transition: .2s ease-out;
+    }
+}
+
+.btn-logo-biobags:focus, .btn-logo-biobags:hover {
+    color: $biobags-green-primary;
+    background-color: $biobags-green-bg;
+
+    i {
+        max-width: 30px;
+        margin-left: 10px;
+    }
+}
+
 // FOOTER
 
 .footer {
@@ -434,15 +496,15 @@ footer.fixed-footer {
 
     .success-wrapper.landscape {
         .grey-bg {
-            
+
             .container {
-                
+
                 #mobile-image {
                     display: none;
                 }
             }
         }
-        
+
         h1.heading {
             margin: 0px;
             font-size: 20px;
@@ -459,11 +521,11 @@ footer.fixed-footer {
             }
 
         }
-        
+
         .row {
             margin-bottom: 0px;
         }
-        
+
         .success-logo {
             img {
                 max-width: 50%;
